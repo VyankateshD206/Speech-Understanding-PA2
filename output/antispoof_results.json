@@ -1,0 +1,7 @@
+{
+  "eer_percent": 0.0,
+  "threshold": 0.9951,
+  "n_bonafide_test": 122,
+  "n_spoof_test": 118,
+  "pass": true
+}

@@ -1,0 +1,320 @@
+[
+  {
+    "start_ms": 0,
+    "end_ms": 91601,
+    "language": "English",
+    "confidence": 0.9938
+  },
+  {
+    "start_ms": 91601,
+    "end_ms": 91841,
+    "language": "Hindi",
+    "confidence": 0.6456
+  },
+  {
+    "start_ms": 91841,
+    "end_ms": 112395,
+    "language": "English",
+    "confidence": 0.8355
+  },
+  {
+    "start_ms": 112395,
+    "end_ms": 112595,
+    "language": "Hindi",
+    "confidence": 0.7013
+  },
+  {
+    "start_ms": 112595,
+    "end_ms": 150000,
+    "language": "English",
+    "confidence": 0.9811
+  },
+  {
+    "start_ms": 150000,
+    "end_ms": 150680,
+    "language": "Hindi",
+    "confidence": 0.643
+  },
+  {
+    "start_ms": 150680,
+    "end_ms": 153302,
+    "language": "English",
+    "confidence": 0.8197
+  },
+  {
+    "start_ms": 153302,
+    "end_ms": 153362,
+    "language": "Hindi",
+    "confidence": 0.5553
+  },
+  {
+    "start_ms": 153362,
+    "end_ms": 153422,
+    "language": "English",
+    "confidence": 0.3871
+  },
+  {
+    "start_ms": 153422,
+    "end_ms": 153442,
+    "language": "Hindi",
+    "confidence": 0.5842
+  },
+  {
+    "start_ms": 153442,
+    "end_ms": 153462,
+    "language": "English",
+    "confidence": 0.8621
+  },
+  {
+    "start_ms": 153462,
+    "end_ms": 153522,
+    "language": "Hindi",
+    "confidence": 0.3419
+  },
+  {
+    "start_ms": 153522,
+    "end_ms": 153542,
+    "language": "English",
+    "confidence": 0.8358
+  },
+  {
+    "start_ms": 153542,
+    "end_ms": 153582,
+    "language": "Hindi",
+    "confidence": 0.8626
+  },
+  {
+    "start_ms": 153582,
+    "end_ms": 153622,
+    "language": "English",
+    "confidence": 0.846
+  },
+  {
+    "start_ms": 153622,
+    "end_ms": 153662,
+    "language": "Hindi",
+    "confidence": 0.746
+  },
+  {
+    "start_ms": 153662,
+    "end_ms": 162809,
+    "language": "English",
+    "confidence": 0.8331
+  },
+  {
+    "start_ms": 162809,
+    "end_ms": 163329,
+    "language": "Hindi",
+    "confidence": 0.6217
+  },
+  {
+    "start_ms": 163329,
+    "end_ms": 163509,
+    "language": "English",
+    "confidence": 0.4876
+  },
+  {
+    "start_ms": 163509,
+    "end_ms": 163549,
+    "language": "Hindi",
+    "confidence": 0.8223
+  },
+  {
+    "start_ms": 163549,
+    "end_ms": 163589,
+    "language": "English",
+    "confidence": 0.8011
+  },
+  {
+    "start_ms": 163589,
+    "end_ms": 163609,
+    "language": "Hindi",
+    "confidence": 0.8353
+  },
+  {
+    "start_ms": 163609,
+    "end_ms": 163669,
+    "language": "English",
+    "confidence": 0.5195
+  },
+  {
+    "start_ms": 163669,
+    "end_ms": 164430,
+    "language": "Hindi",
+    "confidence": 0.5553
+  },
+  {
+    "start_ms": 164430,
+    "end_ms": 167892,
+    "language": "English",
+    "confidence": 0.9624
+  },
+  {
+    "start_ms": 167892,
+    "end_ms": 168993,
+    "language": "Hindi",
+    "confidence": 0.6991
+  },
+  {
+    "start_ms": 168993,
+    "end_ms": 171154,
+    "language": "English",
+    "confidence": 0.9513
+  },
+  {
+    "start_ms": 171154,
+    "end_ms": 172535,
+    "language": "Hindi",
+    "confidence": 0.6079
+  },
+  {
+    "start_ms": 172535,
+    "end_ms": 172575,
+    "language": "English",
+    "confidence": 0.7313
+  },
+  {
+    "start_ms": 172575,
+    "end_ms": 172695,
+    "language": "Hindi",
+    "confidence": 0.3971
+  },
+  {
+    "start_ms": 172695,
+    "end_ms": 177238,
+    "language": "English",
+    "confidence": 0.863
+  },
+  {
+    "start_ms": 177238,
+    "end_ms": 177638,
+    "language": "Hindi",
+    "confidence": 0.5518
+  },
+  {
+    "start_ms": 177638,
+    "end_ms": 240100,
+    "language": "English",
+    "confidence": 0.929
+  },
+  {
+    "start_ms": 240100,
+    "end_ms": 240300,
+    "language": "Hindi",
+    "confidence": 0.8253
+  },
+  {
+    "start_ms": 240300,
+    "end_ms": 242442,
+    "language": "English",
+    "confidence": 0.899
+  },
+  {
+    "start_ms": 242442,
+    "end_ms": 242742,
+    "language": "Hindi",
+    "confidence": 0.8151
+  },
+  {
+    "start_ms": 242742,
+    "end_ms": 244323,
+    "language": "English",
+    "confidence": 0.8474
+  },
+  {
+    "start_ms": 244323,
+    "end_ms": 244883,
+    "language": "Hindi",
+    "confidence": 0.5872
+  },
+  {
+    "start_ms": 244883,
+    "end_ms": 246785,
+    "language": "English",
+    "confidence": 0.8915
+  },
+  {
+    "start_ms": 246785,
+    "end_ms": 247145,
+    "language": "Hindi",
+    "confidence": 0.8478
+  },
+  {
+    "start_ms": 247145,
+    "end_ms": 250987,
+    "language": "English",
+    "confidence": 0.8602
+  },
+  {
+    "start_ms": 250987,
+    "end_ms": 251227,
+    "language": "Hindi",
+    "confidence": 0.8258
+  },
+  {
+    "start_ms": 251227,
+    "end_ms": 253849,
+    "language": "English",
+    "confidence": 0.8846
+  },
+  {
+    "start_ms": 253849,
+    "end_ms": 254069,
+    "language": "Hindi",
+    "confidence": 0.6162
+  },
+  {
+    "start_ms": 254069,
+    "end_ms": 254950,
+    "language": "English",
+    "confidence": 0.8908
+  },
+  {
+    "start_ms": 254950,
+    "end_ms": 255210,
+    "language": "Hindi",
+    "confidence": 0.8254
+  },
+  {
+    "start_ms": 255210,
+    "end_ms": 258833,
+    "language": "English",
+    "confidence": 0.8404
+  },
+  {
+    "start_ms": 258833,
+    "end_ms": 259353,
+    "language": "Hindi",
+    "confidence": 0.7846
+  },
+  {
+    "start_ms": 259353,
+    "end_ms": 265697,
+    "language": "English",
+    "confidence": 0.8199
+  },
+  {
+    "start_ms": 265697,
+    "end_ms": 266518,
+    "language": "Hindi",
+    "confidence": 0.4169
+  },
+  {
+    "start_ms": 266518,
+    "end_ms": 267899,
+    "language": "English",
+    "confidence": 0.9461
+  },
+  {
+    "start_ms": 267899,
+    "end_ms": 268379,
+    "language": "Hindi",
+    "confidence": 0.4888
+  },
+  {
+    "start_ms": 268379,
+    "end_ms": 599568,
+    "language": "English",
+    "confidence": 0.9886
+  }
+]
