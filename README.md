@@ -1,12 +1,12 @@
 # Speech Understanding — Programming Assignment 2
 **Name:** Vyankatesh Deshpande
-**Roll No:** [B23CS1079]
+**Roll No:** B23CS1079
 
 ---
 
 ## 📋 Overview
 
-This repository implements an end-to-end pipeline for processing Hinglish (code-switched Hindi–English) lectures:
+This repository implements an end-to-end pipeline for processing Hinglish (code-switched Hindi–English) lecture:
 
 ```
 original_segment.wav
