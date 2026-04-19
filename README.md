@@ -6,7 +6,7 @@
 
 ## 📋 Overview
 
-This repository implements an end-to-end pipeline for processing Hinglish (code-switched Hindi–English) academic lectures:
+This repository implements an end-to-end pipeline for processing Hinglish (code-switched Hindi–English) lectures:
 
 ```
 original_segment.wav
@@ -61,11 +61,11 @@ Assignment2/
 │   │   ├── denoise_comparison.png      # Denoising before/after
 │   │   ├── prosody_comparison.png      # F0/energy contour comparison
 │   │   ├── antispoof_det.png           # DET curve
+|   |   ├── parallel_corpus_maithili.json   # 500-word EN/HI → Maithili corpus
 │   │   └── adversarial_analysis.png    # FGSM attack analysis
 │
 ├── report.pdf                      # IEEE two-column LaTeX report
 ├── Implementation_note.pdf         # 1-page implementation notes
-├── parallel_corpus_maithili.json   # 500-word EN/HI → Maithili corpus
 └── README.md                       
 ```
 
