@@ -1,0 +1,64 @@
+{
+  "segment_start_s": 30.0,
+  "segment_duration_s": 5.0,
+  "source_language": "Hindi",
+  "target_language": "English",
+  "original_hindi_pct": 100.0,
+  "original_english_pct": 0.0,
+  "epsilon_results": [
+    {
+      "epsilon": 0.0001,
+      "success": false,
+      "snr_db": 45.9,
+      "inaudible": true
+    },
+    {
+      "epsilon": 0.0003,
+      "success": false,
+      "snr_db": 36.36,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0005,
+      "success": false,
+      "snr_db": 31.92,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.001,
+      "success": false,
+      "snr_db": 25.9,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.002,
+      "success": false,
+      "snr_db": 19.88,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.005,
+      "success": false,
+      "snr_db": 11.92,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.01,
+      "success": false,
+      "snr_db": 5.9,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.02,
+      "success": false,
+      "snr_db": -0.12,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.05,
+      "success": false,
+      "snr_db": -8.08,
+      "inaudible": false
+    }
+  ]
+}
