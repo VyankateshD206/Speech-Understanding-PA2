@@ -1,0 +1,129 @@
+{
+  "model": "openai/whisper-large-v3",
+  "ngram_order": 3,
+  "bias_weight": 2.5,
+  "audio_file": "original_segment.wav",
+  "segments": [
+    {
+      "start_s": 0.0,
+      "end_s": 30.0,
+      "text": "Here as a person who loves mathematics I have toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend"
+    },
+    {
+      "start_s": 25.0,
+      "end_s": 55.0,
+      "text": "देख रहा हूं मैं उनके बहुत आधर करता हूं और मेरे देश के हर कोई उनको आधर करते हैं क्योंकि साइंस और स्पिरिचालिटी के बीच बहुत बड़ा करेट है ऐसा मेरा बत है बहुत से साइंटिफिक एडवांस माइंड्स अगर थोड़ा सा भी देखें तो वो स्पिरिचली एडवांस भी होते हैं स्री निवास रमानु"
+    },
+    {
+      "start_s": 50.0,
+      "end_s": 80.0,
+      "text": "रामानुजय होते हैं। उसे कटफ भी होते हैं। स्री निवास रामानुजय हम कहते थे कि उन्हें मैथिमेटिकल आइडियाज उत्देवी से आते हैं जिसकी वो पूजा करते हैं। यहाँ आइडियाज तपस्या से आते हैं। और तपस्या सिर्फ हाडवर्ग नहीं है एक तरह से किसी एक काम के लिए खुद को डिवोट कर देना खुद को खपा देना"
+    },
+    {
+      "start_s": 75.0,
+      "end_s": 105.0,
+      "text": "ऐसी एक काम के लिए खुद को डिवोट कर देना खुद को खपा देना स्वयं ही जैसे वह कार्य का रूप बन जाए है और हम नॉलेज के जितने ज्यादा सोर्सेस के लिए अपने ओपन होंगे हमारे पास उतने ही ज्यादा आइडिया जाएंगे इनफॉरमेशन और नॉलेज के बीच में फर्क करने से भी समय चाहिए कि कुछ लोग इनफॉरमेशन को नॉलेज मांगते हैं और इनफॉरमेशन को नॉलेज मांगते हैं"
+    },
+    {
+      "start_s": 100.0,
+      "end_s": 130.0,
+      "text": "Some people ask for knowledge andself. Andself. Andself. Andself. Andself. Andself. Andself. Andself. Andself. Andself. Andself. Andself. Andself. a decisive leader."
+    },
+    {
+      "start_s": 125.0,
+      "end_s": 155.0,
+      "text": "You have a reputation for being a decisive leader. So can you walk me through on this topic of ideas, how you make decisions, what's your process? So, for instance, when facing a high stakes choice with no clear precedence, you know, a lot of uncertainty, having to balance input. How do you make decisions? Lots ofup there is commission."
+    },
+    {
+      "start_s": 150.0,
+      "end_s": 180.0,
+      "text": "बहुत से बातें हैं इसके पीछे एक शायद इंदुस्तान में मैं एक ऐसा पोलिटिशन हूं जो मेरे देश के 85-90% डिस्ट्रिक में रात्रे मुकाम कर चुका हूं मेरे पूर्व जीवन की विवाद करता हूं विभ्रमान करता था उससे जो मैंने"
+    },
+    {
+      "start_s": 175.0,
+      "end_s": 205.0,
+      "text": "जीवन के बाद करता हूं, मैं भ्रमान करता था। उससे जो मैंने पाया है, वो जो सिखा है, तो मेरे पास वो एक बहुत बड़ा चीजों को ग्रासरूट लेवल पर त्रितियों के विषय में मेरी फर्स्टेड इन्फॉर्मेशन है। किसी से पूछा हुआ जाना हुआ ऐसा किताबों के द्वारा नहीं पाया है दूसरा कमर्नेंस की दृष्टि से देखें तो मुझे परिवर पास कोई"
+    },
+    {
+      "start_s": 200.0,
+      "end_s": 230.0,
+      "text": "कि कमर्नेंस की दुरुष्ट्री से देखें तो मेरे परिवर्पास कोई प्रकार का बैगेज नहीं है कि जिस बैगेज को लेकर कि मुझे तब रहना है उसके आधार रहा पर मेरा चलना है वह नहीं है तीसरा कि निर्णय करने में मेरा एक तरह जो है मेरा देश सबसे पहले मैं जो कर रहा हूं मेरे देश का नुक्षा नुक्षा तो नहीं हो रहा है"
+    },
+    {
+      "start_s": 225.0,
+      "end_s": 255.0,
+      "text": "मैं जो कर रहा हूँ मेरे देश का नुक्षा तो नहीं हो रहा है। दूसरा हमारे यहाँ महात्मा गांधी कहते थे कि तुम्हें कोई निर्णय करते समय कोई उल्चन हो तो तुम किसी गरीग पर चेहरा देख लो उनको याद करो और सोचो ये उसके काम आएगा क्या तो आपका निर्णय सही होगा। मुझे वह मंत्र बहुत काम आता है कि आप सामान्य मानवी को याद करो कि अपने मैं जो कर रहा हूं दूसरे प्रक्रियां से समय तक है कि मैं"
+    },
+    {
+      "start_s": 250.0,
+      "end_s": 280.0,
+      "text": "मैं जो कर रहा हूं तुसरे प्रक्रियां से जहां तक है कि मैं बहुत ही बहर कनेक्टेड हूं मेरी सरकार में मेरे अवसरों को इस प्रति इर्शा भी होती होगी और उनको तकलीफ भी होती होगी और वह है मेरे इंफर्मेशन जनरल बहुत है और बहुत लाइव है और इसलिए मुझे जीजों की जानकारियां बहुत सारी"
+    },
+    {
+      "start_s": 275.0,
+      "end_s": 305.0,
+      "text": "हैं और इसलिए मुझे जीजों की जानकारियां बहुत सारी मिल जाती है और देखा से तो मुझे कोई आकर के ब्रीप करें कि मैं खुद खड़ा रहता हूं और जब आप ओनर्सिप लेते हैं तो आपके साथी भी आपके प्रतिश समर्पित भाव से जुड़ जाते उनको लगता है यह आदमी हमें नहीं डूबो देगा, हमें मरवा नहीं देगा, यह खुद खड़ा रहेगा हमारे साथ, क्योंकि"
+    },
+    {
+      "start_s": 300.0,
+      "end_s": 330.0,
+      "text": "हमें मरवा नहीं देगा, यह खुद खड़ा रहेगा हमारे साथ, क्योंकि इमानदारी से निर्णय कर रहा हूँ, मेरे लिए कुछ नहीं कर रहा हूँ, देशवासों के लिए, गलती हो सकती है, मैंने देशवासों को पहले कहा रहा हूँ, मैं इंसाम हूँ, मेरे से गलती हो सकती है, बद इरादे से काम नहीं करूँ"
+    },
+    {
+      "start_s": 325.0,
+      "end_s": 355.0,
+      "text": "He doesn't want toend anything good. So, society sees me as Iam andself."
+    },
+    {
+      "start_s": 350.0,
+      "end_s": 380.0,
+      "text": "engineers in thehuman world. So how can India become thehuman leader inthe space ofthe humanvocalist currently lags behindthe humanvocalist inthe United States. What does it take forhumanvocalist India toend toend start winning andthe humanvocalist leading thehuman vocalist world inthe humanvocalist? One thing that you may find more andthe humanvocalist may find it more bad. When you Iam saying this because you have asked me."
+    },
+    {
+      "start_s": 375.0,
+      "end_s": 405.0,
+      "text": "देखिए जब आपने पूछा है तो अभी मेरे मन में से निकल रहा है मैं कहना चाहता हूँ दुनिया एआई के लिए कुछ भी कर ले भारत के बिनाए एआई अधूरा है बहुत जिम्मेवार स्टेट्मेंट में कर दो देखिए एआई के समन में आपके अपने अनुभव क्या है मैं खुद अपने मेरा भाषन तो सुना पहली"
+    },
+    {
+      "start_s": 400.0,
+      "end_s": 430.0,
+      "text": "What is your experience? You heard my speechfast in Paris andthe same inresistible inresistible inresistible inresistible. Can anyone develop AI alone? Have you experienced it yourself? So you gave actually in your speech a brilliant example ofthe positive impact ofthe AI andthe limitations ofthe AI. I think thehumanisacrypto.com example you gave is"
+    },
+    {
+      "start_s": 425.0,
+      "end_s": 455.0,
+      "text": "andthe limitations of AI. I think thehumanity ofism example you gave is when youask it toendtoend an image ofan person writingwith their left hand. It's always going toendtoend a person writingwith their right hand. So inthe way thehumanity ofism creating an AI system whereIndia is not part ofthe process is always going toendtoendtoend thehumanity ofism"
+    },
+    {
+      "start_s": 450.0,
+      "end_s": 480.0,
+      "text": "of that process is always going toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend inthe 21st century."
+    },
+    {
+      "start_s": 475.0,
+      "end_s": 505.0,
+      "text": "यहां सिर्फ इसका मॉडल नहीं बना रहा बल्कि स्पेसिफिक यूज केसिस के हिसाब से AI बेज एप्लीकेशन को भी डेवलप कर रहा है हमारे पास एक यूनिक मार्केट पेस बेज मॉडल अल्ली नहीं मौजूद है कि माइंड सेट शिप है परिंग इन इंडिया कि इस्ट्रोडिकल फैक्टर और शर्कारी कार्यशायलिया"
+    },
+    {
+      "start_s": 500.0,
+      "end_s": 530.0,
+      "text": "historical factors, government work. Many of the top tech leaders, first of allpole, tech talent, but tech leaders in thehuman origin. Sundar Pchai, Satya Ngram, Arvind Sermonas, you've met with some ofthe. What spirit oftheirhuman origins do you think they carryin them that enables them toend so successful? The"
+    },
+    {
+      "start_s": 525.0,
+      "end_s": 555.0,
+      "text": "do you think they carry in them that enables them toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend to"
+    },
+    {
+      "start_s": 550.0,
+      "end_s": 580.0,
+      "text": "andthe best you can give, you should give. Andthe reason forthe culture is that every Indian tries toend his best wherever he is. So you spoke about this humanvocaligence. Do you worry that AI, artificial intelligence will replace us humans? It is so that in every era, for some timeenergy andthe humanbeings"
+    },
+    {
+      "start_s": 575.0,
+      "end_s": 599.57,
+      "text": "It does make me and a lot of people wonder what it makes humans special because it seems that there's a lot that makes humans special. Thehuman special. Thehuman special. Thehuman special. Thehuman special. Thehuman special."
+    }
+  ],
+  "full_transcript": "Here as a person who loves mathematics I have toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend देख रहा हूं मैं उनके बहुत आधर करता हूं और मेरे देश के हर कोई उनको आधर करते हैं क्योंकि साइंस और स्पिरिचालिटी के बीच बहुत बड़ा करेट है ऐसा मेरा बत है बहुत से साइंटिफिक एडवांस माइंड्स अगर थोड़ा सा भी देखें तो वो स्पिरिचली एडवांस भी होते हैं स्री निवास रमानु रामानुजय होते हैं। उसे कटफ भी होते हैं। स्री निवास रामानुजय हम कहते थे कि उन्हें मैथिमेटिकल आइडियाज उत्देवी से आते हैं जिसकी वो पूजा करते हैं। यहाँ आइडियाज तपस्या से आते हैं। और तपस्या सिर्फ हाडवर्ग नहीं है एक तरह से किसी एक काम के लिए खुद को डिवोट कर देना खुद को खपा देना ऐसी एक काम के लिए खुद को डिवोट कर देना खुद को खपा देना स्वयं ही जैसे वह कार्य का रूप बन जाए है और हम नॉलेज के जितने ज्यादा सोर्सेस के लिए अपने ओपन होंगे हमारे पास उतने ही ज्यादा आइडिया जाएंगे इनफॉरमेशन और नॉलेज के बीच में फर्क करने से भी समय चाहिए कि कुछ लोग इनफॉरमेशन को नॉलेज मांगते हैं और इनफॉरमेशन को नॉलेज मांगते हैं Some people ask for knowledge andself. Andself. Andself. Andself. Andself. Andself. Andself. Andself. Andself. Andself. Andself. Andself. Andself. a decisive leader. You have a reputation for being a decisive leader. So can you walk me through on this topic of ideas, how you make decisions, what's your process? So, for instance, when facing a high stakes choice with no clear precedence, you know, a lot of uncertainty, having to balance input. How do you make decisions? Lots ofup there is commission. बहुत से बातें हैं इसके पीछे एक शायद इंदुस्तान में मैं एक ऐसा पोलिटिशन हूं जो मेरे देश के 85-90% डिस्ट्रिक में रात्रे मुकाम कर चुका हूं मेरे पूर्व जीवन की विवाद करता हूं विभ्रमान करता था उससे जो मैंने जीवन के बाद करता हूं, मैं भ्रमान करता था। उससे जो मैंने पाया है, वो जो सिखा है, तो मेरे पास वो एक बहुत बड़ा चीजों को ग्रासरूट लेवल पर त्रितियों के विषय में मेरी फर्स्टेड इन्फॉर्मेशन है। किसी से पूछा हुआ जाना हुआ ऐसा किताबों के द्वारा नहीं पाया है दूसरा कमर्नेंस की दृष्टि से देखें तो मुझे परिवर पास कोई कि कमर्नेंस की दुरुष्ट्री से देखें तो मेरे परिवर्पास कोई प्रकार का बैगेज नहीं है कि जिस बैगेज को लेकर कि मुझे तब रहना है उसके आधार रहा पर मेरा चलना है वह नहीं है तीसरा कि निर्णय करने में मेरा एक तरह जो है मेरा देश सबसे पहले मैं जो कर रहा हूं मेरे देश का नुक्षा नुक्षा तो नहीं हो रहा है मैं जो कर रहा हूँ मेरे देश का नुक्षा तो नहीं हो रहा है। दूसरा हमारे यहाँ महात्मा गांधी कहते थे कि तुम्हें कोई निर्णय करते समय कोई उल्चन हो तो तुम किसी गरीग पर चेहरा देख लो उनको याद करो और सोचो ये उसके काम आएगा क्या तो आपका निर्णय सही होगा। मुझे वह मंत्र बहुत काम आता है कि आप सामान्य मानवी को याद करो कि अपने मैं जो कर रहा हूं दूसरे प्रक्रियां से समय तक है कि मैं मैं जो कर रहा हूं तुसरे प्रक्रियां से जहां तक है कि मैं बहुत ही बहर कनेक्टेड हूं मेरी सरकार में मेरे अवसरों को इस प्रति इर्शा भी होती होगी और उनको तकलीफ भी होती होगी और वह है मेरे इंफर्मेशन जनरल बहुत है और बहुत लाइव है और इसलिए मुझे जीजों की जानकारियां बहुत सारी हैं और इसलिए मुझे जीजों की जानकारियां बहुत सारी मिल जाती है और देखा से तो मुझे कोई आकर के ब्रीप करें कि मैं खुद खड़ा रहता हूं और जब आप ओनर्सिप लेते हैं तो आपके साथी भी आपके प्रतिश समर्पित भाव से जुड़ जाते उनको लगता है यह आदमी हमें नहीं डूबो देगा, हमें मरवा नहीं देगा, यह खुद खड़ा रहेगा हमारे साथ, क्योंकि हमें मरवा नहीं देगा, यह खुद खड़ा रहेगा हमारे साथ, क्योंकि इमानदारी से निर्णय कर रहा हूँ, मेरे लिए कुछ नहीं कर रहा हूँ, देशवासों के लिए, गलती हो सकती है, मैंने देशवासों को पहले कहा रहा हूँ, मैं इंसाम हूँ, मेरे से गलती हो सकती है, बद इरादे से काम नहीं करूँ He doesn't want toend anything good. So, society sees me as Iam andself. engineers in thehuman world. So how can India become thehuman leader inthe space ofthe humanvocalist currently lags behindthe humanvocalist inthe United States. What does it take forhumanvocalist India toend toend start winning andthe humanvocalist leading thehuman vocalist world inthe humanvocalist? One thing that you may find more andthe humanvocalist may find it more bad. When you Iam saying this because you have asked me. देखिए जब आपने पूछा है तो अभी मेरे मन में से निकल रहा है मैं कहना चाहता हूँ दुनिया एआई के लिए कुछ भी कर ले भारत के बिनाए एआई अधूरा है बहुत जिम्मेवार स्टेट्मेंट में कर दो देखिए एआई के समन में आपके अपने अनुभव क्या है मैं खुद अपने मेरा भाषन तो सुना पहली What is your experience? You heard my speechfast in Paris andthe same inresistible inresistible inresistible inresistible. Can anyone develop AI alone? Have you experienced it yourself? So you gave actually in your speech a brilliant example ofthe positive impact ofthe AI andthe limitations ofthe AI. I think thehumanisacrypto.com example you gave is andthe limitations of AI. I think thehumanity ofism example you gave is when youask it toendtoend an image ofan person writingwith their left hand. It's always going toendtoend a person writingwith their right hand. So inthe way thehumanity ofism creating an AI system whereIndia is not part ofthe process is always going toendtoendtoend thehumanity ofism of that process is always going toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend inthe 21st century. यहां सिर्फ इसका मॉडल नहीं बना रहा बल्कि स्पेसिफिक यूज केसिस के हिसाब से AI बेज एप्लीकेशन को भी डेवलप कर रहा है हमारे पास एक यूनिक मार्केट पेस बेज मॉडल अल्ली नहीं मौजूद है कि माइंड सेट शिप है परिंग इन इंडिया कि इस्ट्रोडिकल फैक्टर और शर्कारी कार्यशायलिया historical factors, government work. Many of the top tech leaders, first of allpole, tech talent, but tech leaders in thehuman origin. Sundar Pchai, Satya Ngram, Arvind Sermonas, you've met with some ofthe. What spirit oftheirhuman origins do you think they carryin them that enables them toend so successful? The do you think they carry in them that enables them toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend to andthe best you can give, you should give. Andthe reason forthe culture is that every Indian tries toend his best wherever he is. So you spoke about this humanvocaligence. Do you worry that AI, artificial intelligence will replace us humans? It is so that in every era, for some timeenergy andthe humanbeings It does make me and a lot of people wonder what it makes humans special because it seems that there's a lot that makes humans special. Thehuman special. Thehuman special. Thehuman special. Thehuman special. Thehuman special."
+}

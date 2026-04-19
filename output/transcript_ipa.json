@@ -1,0 +1,179 @@
+{
+  "source_transcript": "transcript_constrained.json",
+  "source_lid": "lid_labels.json",
+  "g2p_tools": {
+    "english": "g2p_en (CMU Dict)",
+    "hindi": "epitran (hin-Deva)"
+  },
+  "segments": [
+    {
+      "start_s": 0.0,
+      "end_s": 30.0,
+      "original_text": "Here as a person who loves mathematics I have toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend",
+      "language": "English",
+      "ipa": "HHIY1R AE1Z AH0 PER1SAH0N HHUW1 LAH1VZ MAE2THAH0MAE1TIH0KS AY1 HHAE1V TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND"
+    },
+    {
+      "start_s": 25.0,
+      "end_s": 55.0,
+      "original_text": "देख रहा हूं मैं उनके बहुत आधर करता हूं और मेरे देश के हर कोई उनको आधर करते हैं क्योंकि साइंस और स्पिरिचालिटी के बीच बहुत बड़ा करेट है ऐसा मेरा बत है बहुत से साइंटिफिक एडवांस माइंड्स अगर थोड़ा सा भी देखें तो वो स्पिरिचली एडवांस भी होते हैं स्री निवास रमानु",
+      "language": "English",
+      "ipa": "dekʰ rəɦaː ɦuːn mæːn unke bəɦut aːd̤ər kərtaː ɦuːn ɔːr mere deʃ ke ɦər koiː unko aːd̤ər kərte ɦæːn kjoŋki saːinsə ɔːr spirit͡ʃaːliʈiː ke biːt͡ʃ bəɦut bəɽaː kəreʈ ɦæː æːsaː meraː bət ɦæː bəɦut se saːinʈipʰik eɖvaːnsə maːinɖsə aɡər tʰoɽaː saː b̤iː dekʰen to vo spirit͡ʃliː eɖvaːnsə b̤iː ɦote ɦæːn sriː nivaːs rəmaːnu"
+    },
+    {
+      "start_s": 50.0,
+      "end_s": 80.0,
+      "original_text": "रामानुजय होते हैं। उसे कटफ भी होते हैं। स्री निवास रामानुजय हम कहते थे कि उन्हें मैथिमेटिकल आइडियाज उत्देवी से आते हैं जिसकी वो पूजा करते हैं। यहाँ आइडियाज तपस्या से आते हैं। और तपस्या सिर्फ हाडवर्ग नहीं है एक तरह से किसी एक काम के लिए खुद को डिवोट कर देना खुद को खपा देना",
+      "language": "English",
+      "ipa": "raːmaːnud͡ʒəj ɦote ɦæːn। use kəʈəpʰ b̤iː ɦote ɦæːn। sriː nivaːs raːmaːnud͡ʒəj ɦəm kəɦte tʰe ki unɦen mæːtʰimeʈikəl aːiɖijaːd͡ʒ utdeviː se aːte ɦæːn d͡ʒiskiː vo puːd͡ʒaː kərte ɦæːn। jəɦãː aːiɖijaːd͡ʒ təpsjaː se aːte ɦæːn। ɔːr təpsjaː sirpʰə ɦaːɖvərɡə nəɦiːn ɦæː ek tərəɦ se kisiː ek kaːm ke lie kʰud ko ɖivoʈ kər denaː kʰud ko kʰəpaː denaː"
+    },
+    {
+      "start_s": 75.0,
+      "end_s": 105.0,
+      "original_text": "ऐसी एक काम के लिए खुद को डिवोट कर देना खुद को खपा देना स्वयं ही जैसे वह कार्य का रूप बन जाए है और हम नॉलेज के जितने ज्यादा सोर्सेस के लिए अपने ओपन होंगे हमारे पास उतने ही ज्यादा आइडिया जाएंगे इनफॉरमेशन और नॉलेज के बीच में फर्क करने से भी समय चाहिए कि कुछ लोग इनफॉरमेशन को नॉलेज मांगते हैं और इनफॉरमेशन को नॉलेज मांगते हैं",
+      "language": "English",
+      "ipa": "æːsiː ek kaːm ke lie kʰud ko ɖivoʈ kər denaː kʰud ko kʰəpaː denaː svəjən ɦiː d͡ʒæːse vəɦ kaːrjə kaː ruːp bən d͡ʒaːe ɦæː ɔːr ɦəm nɔled͡ʒ ke d͡ʒitne d͡ʒjaːdaː sorses ke lie apne opən ɦoŋɡe ɦəmaːre paːs utne ɦiː d͡ʒjaːdaː aːiɖijaː d͡ʒaːeŋɡe inpʰɔrmeʃən ɔːr nɔled͡ʒ ke biːt͡ʃ men pʰərkə kərne se b̤iː səməj t͡ʃaːɦie ki kut͡ʃʰ loɡ inpʰɔrmeʃən ko nɔled͡ʒ maːŋɡte ɦæːn ɔːr inpʰɔrmeʃən ko nɔled͡ʒ maːŋɡte ɦæːn"
+    },
+    {
+      "start_s": 100.0,
+      "end_s": 130.0,
+      "original_text": "Some people ask for knowledge andself. Andself. Andself. Andself. Andself. Andself. Andself. Andself. Andself. Andself. Andself. Andself. Andself. a decisive leader.",
+      "language": "English",
+      "ipa": "SAH1M PIY1PAH0L AE1SK FAO1R NAA1LAH0JH AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AH0 DIH0SAY1SIH0V LIY1DER0"
+    },
+    {
+      "start_s": 125.0,
+      "end_s": 155.0,
+      "original_text": "You have a reputation for being a decisive leader. So can you walk me through on this topic of ideas, how you make decisions, what's your process? So, for instance, when facing a high stakes choice with no clear precedence, you know, a lot of uncertainty, having to balance input. How do you make decisions? Lots ofup there is commission.",
+      "language": "English",
+      "ipa": "YUW1 HHAE1V AH0 REH2PYAH0TEY1SHAH0N FAO1R BIY1IH0NG AH0 DIH0SAY1SIH0V LIY1DER0 SOW1 KAE1N YUW1 WAO1K MIY1 THRUW1 AA1N DHIH1S TAA1PIH0K AH1V AY0DIY1AH0Z HHAW1 YUW1 MEY1K DIH0SIH1ZHAH0NZ WAH1TEH1S YAO1R PRAA1SEH2S SOW1 FAO1R IH1NSTAH0NS WEH1N FEY1SIH0NG AH0 HHAY1 STEY1KS CHOY1S WIH1DH NOW1 KLIH1R PREH1SAH0DAH0NS YUW1 NOW1 AH0 LAA1T AH1V AH0NSER1TAH0NTIY0 HHAE1VIH0NG TUW1 BAE1LAH0NS IH1NPUH2T HHAW1 DUW1 YUW1 MEY1K DIH0SIH1ZHAH0NZ LAA1TS AH0WAH1P DHEH1R IH1Z KAH0MIH1SHAH0N"
+    },
+    {
+      "start_s": 150.0,
+      "end_s": 180.0,
+      "original_text": "बहुत से बातें हैं इसके पीछे एक शायद इंदुस्तान में मैं एक ऐसा पोलिटिशन हूं जो मेरे देश के 85-90% डिस्ट्रिक में रात्रे मुकाम कर चुका हूं मेरे पूर्व जीवन की विवाद करता हूं विभ्रमान करता था उससे जो मैंने",
+      "language": "English",
+      "ipa": "bəɦut se baːten ɦæːn iske piːt͡ʃʰe ek ʃaːjəd industaːn men mæːn ek æːsaː poliʈiʃən ɦuːn d͡ʒo mere deʃ ke  ɖisʈrik men raːtre mukaːm kər t͡ʃukaː ɦuːn mere puːrvə d͡ʒiːvən kiː vivaːd kərtaː ɦuːn vib̤rəmaːn kərtaː tʰaː usse d͡ʒo mæːnne"
+    },
+    {
+      "start_s": 175.0,
+      "end_s": 205.0,
+      "original_text": "जीवन के बाद करता हूं, मैं भ्रमान करता था। उससे जो मैंने पाया है, वो जो सिखा है, तो मेरे पास वो एक बहुत बड़ा चीजों को ग्रासरूट लेवल पर त्रितियों के विषय में मेरी फर्स्टेड इन्फॉर्मेशन है। किसी से पूछा हुआ जाना हुआ ऐसा किताबों के द्वारा नहीं पाया है दूसरा कमर्नेंस की दृष्टि से देखें तो मुझे परिवर पास कोई",
+      "language": "English",
+      "ipa": "d͡ʒiːvən ke baːd kərtaː ɦuːn mæːn b̤rəmaːn kərtaː tʰaː। usse d͡ʒo mæːnne paːjaː ɦæː vo d͡ʒo sikʰaː ɦæː to mere paːs vo ek bəɦut bəɽaː t͡ʃiːd͡ʒon ko ɡraːsruːʈ levəl pər tritijon ke viʂəj men meriː pʰərsʈeɖ inpʰɔrmeʃən ɦæː। kisiː se puːt͡ʃʰaː ɦuaː d͡ʒaːnaː ɦuaː æːsaː kitaːbon ke dvaːraː nəɦiːn paːjaː ɦæː duːsraː kəmrnensə kiː dr̩ʂʈi se dekʰen to mud͡ʒ̤e pərivər paːs koiː"
+    },
+    {
+      "start_s": 200.0,
+      "end_s": 230.0,
+      "original_text": "कि कमर्नेंस की दुरुष्ट्री से देखें तो मेरे परिवर्पास कोई प्रकार का बैगेज नहीं है कि जिस बैगेज को लेकर कि मुझे तब रहना है उसके आधार रहा पर मेरा चलना है वह नहीं है तीसरा कि निर्णय करने में मेरा एक तरह जो है मेरा देश सबसे पहले मैं जो कर रहा हूं मेरे देश का नुक्षा नुक्षा तो नहीं हो रहा है",
+      "language": "English",
+      "ipa": "ki kəmrnensə kiː duruʂʈriː se dekʰen to mere pərivrpaːs koiː prəkaːr kaː bæːɡed͡ʒ nəɦiːn ɦæː ki d͡ʒis bæːɡed͡ʒ ko lekər ki mud͡ʒ̤e təb rəɦnaː ɦæː uske aːd̤aːr rəɦaː pər meraː t͡ʃəlnaː ɦæː vəɦ nəɦiːn ɦæː tiːsraː ki nirɳəj kərne men meraː ek tərəɦ d͡ʒo ɦæː meraː deʃ səbse pəɦle mæːn d͡ʒo kər rəɦaː ɦuːn mere deʃ kaː nukʂaː nukʂaː to nəɦiːn ɦo rəɦaː ɦæː"
+    },
+    {
+      "start_s": 225.0,
+      "end_s": 255.0,
+      "original_text": "मैं जो कर रहा हूँ मेरे देश का नुक्षा तो नहीं हो रहा है। दूसरा हमारे यहाँ महात्मा गांधी कहते थे कि तुम्हें कोई निर्णय करते समय कोई उल्चन हो तो तुम किसी गरीग पर चेहरा देख लो उनको याद करो और सोचो ये उसके काम आएगा क्या तो आपका निर्णय सही होगा। मुझे वह मंत्र बहुत काम आता है कि आप सामान्य मानवी को याद करो कि अपने मैं जो कर रहा हूं दूसरे प्रक्रियां से समय तक है कि मैं",
+      "language": "English",
+      "ipa": "mæːn d͡ʒo kər rəɦaː ɦũː mere deʃ kaː nukʂaː to nəɦiːn ɦo rəɦaː ɦæː। duːsraː ɦəmaːre jəɦãː məɦaːtmaː ɡaːnd̤iː kəɦte tʰe ki tumɦen koiː nirɳəj kərte səməj koiː ult͡ʃən ɦo to tum kisiː ɡəriːɡ pər t͡ʃeɦraː dekʰ lo unko jaːd kəro ɔːr sot͡ʃo je uske kaːm aːeɡaː kjaː to aːpkaː nirɳəj səɦiː ɦoɡaː। mud͡ʒ̤e vəɦ məntrə bəɦut kaːm aːtaː ɦæː ki aːp saːmaːnjə maːnviː ko jaːd kəro ki apne mæːn d͡ʒo kər rəɦaː ɦuːn duːsre prəkrijaːn se səməj tək ɦæː ki mæːn"
+    },
+    {
+      "start_s": 250.0,
+      "end_s": 280.0,
+      "original_text": "मैं जो कर रहा हूं तुसरे प्रक्रियां से जहां तक है कि मैं बहुत ही बहर कनेक्टेड हूं मेरी सरकार में मेरे अवसरों को इस प्रति इर्शा भी होती होगी और उनको तकलीफ भी होती होगी और वह है मेरे इंफर्मेशन जनरल बहुत है और बहुत लाइव है और इसलिए मुझे जीजों की जानकारियां बहुत सारी",
+      "language": "English",
+      "ipa": "mæːn d͡ʒo kər rəɦaː ɦuːn tusre prəkrijaːn se d͡ʒəɦaːn tək ɦæː ki mæːn bəɦut ɦiː bəɦər kənekʈeɖ ɦuːn meriː sərkaːr men mere avsəron ko is prəti irʃaː b̤iː ɦotiː ɦoɡiː ɔːr unko təkliːpʰ b̤iː ɦotiː ɦoɡiː ɔːr vəɦ ɦæː mere impʰrmeʃən d͡ʒənrəl bəɦut ɦæː ɔːr bəɦut laːiv ɦæː ɔːr islie mud͡ʒ̤e d͡ʒiːd͡ʒon kiː d͡ʒaːnkaːrijaːn bəɦut saːriː"
+    },
+    {
+      "start_s": 275.0,
+      "end_s": 305.0,
+      "original_text": "हैं और इसलिए मुझे जीजों की जानकारियां बहुत सारी मिल जाती है और देखा से तो मुझे कोई आकर के ब्रीप करें कि मैं खुद खड़ा रहता हूं और जब आप ओनर्सिप लेते हैं तो आपके साथी भी आपके प्रतिश समर्पित भाव से जुड़ जाते उनको लगता है यह आदमी हमें नहीं डूबो देगा, हमें मरवा नहीं देगा, यह खुद खड़ा रहेगा हमारे साथ, क्योंकि",
+      "language": "English",
+      "ipa": "ɦæːn ɔːr islie mud͡ʒ̤e d͡ʒiːd͡ʒon kiː d͡ʒaːnkaːrijaːn bəɦut saːriː mil d͡ʒaːtiː ɦæː ɔːr dekʰaː se to mud͡ʒ̤e koiː aːkər ke briːp kəren ki mæːn kʰud kʰəɽaː rəɦtaː ɦuːn ɔːr d͡ʒəb aːp onrsip lete ɦæːn to aːpke saːtʰiː b̤iː aːpke prətiʃ səmrpit b̤aːv se d͡ʒuɽ d͡ʒaːte unko ləɡtaː ɦæː jəɦ aːdmiː ɦəmen nəɦiːn ɖuːbo deɡaː ɦəmen mərvaː nəɦiːn deɡaː jəɦ kʰud kʰəɽaː rəɦeɡaː ɦəmaːre saːtʰ kjoŋki"
+    },
+    {
+      "start_s": 300.0,
+      "end_s": 330.0,
+      "original_text": "हमें मरवा नहीं देगा, यह खुद खड़ा रहेगा हमारे साथ, क्योंकि इमानदारी से निर्णय कर रहा हूँ, मेरे लिए कुछ नहीं कर रहा हूँ, देशवासों के लिए, गलती हो सकती है, मैंने देशवासों को पहले कहा रहा हूँ, मैं इंसाम हूँ, मेरे से गलती हो सकती है, बद इरादे से काम नहीं करूँ",
+      "language": "English",
+      "ipa": "ɦəmen mərvaː nəɦiːn deɡaː jəɦ kʰud kʰəɽaː rəɦeɡaː ɦəmaːre saːtʰ kjoŋki imaːndaːriː se nirɳəj kər rəɦaː ɦũː mere lie kut͡ʃʰ nəɦiːn kər rəɦaː ɦũː deʃvaːson ke lie ɡəltiː ɦo səktiː ɦæː mæːnne deʃvaːson ko pəɦle kəɦaː rəɦaː ɦũː mæːn insaːm ɦũː mere se ɡəltiː ɦo səktiː ɦæː bəd iraːde se kaːm nəɦiːn kərũː"
+    },
+    {
+      "start_s": 325.0,
+      "end_s": 355.0,
+      "original_text": "He doesn't want toend anything good. So, society sees me as Iam andself.",
+      "language": "English",
+      "ipa": "HHIY1 DOW1ZAH0NTIY1 WAA1NT TOW1ND EH1NIY0THIH2NG GUH1D SOW1 SAH0SAY1AH0TIY0 SIY1Z MIY1 AE1Z IY1AH0M AE1NDIH0SLF"
+    },
+    {
+      "start_s": 350.0,
+      "end_s": 380.0,
+      "original_text": "engineers in thehuman world. So how can India become thehuman leader inthe space ofthe humanvocalist currently lags behindthe humanvocalist inthe United States. What does it take forhumanvocalist India toend toend start winning andthe humanvocalist leading thehuman vocalist world inthe humanvocalist? One thing that you may find more andthe humanvocalist may find it more bad. When you Iam saying this because you have asked me.",
+      "language": "English",
+      "ipa": "EH1NJHAH0NIH1RZ IH0N THIY1HHAH0MAH0N WER1LD SOW1 HHAW1 KAE1N IH1NDIY0AH0 BIH0KAH1M THIY1HHAH0MAH0N LIY1DER0 IH1NTH SPEY1S AO1FTH HHYUW2MAH0NAA1VAH0KAH0ST KER1AH0NTLIY0 LAE1GZ BIH0HHIH1NDTH HHYUW2MAH0NAA1VAH0KAH0ST IH1NTH YUW0NAY1TAH0D STEY1TS WAH1T DAH1Z IH1T TEY1K FAO2RHHYUW0MAA1VAH0NCHAH0ST IH1NDIY0AH0 TOW1ND TOW1ND STAA1RT WIH1NIH0NG AE1NDHHIY0 HHYUW2MAH0NAA1VAH0KAH0ST LIY1DIH0NG THIY1HHAH0MAH0N VOW1KAH0LIH0ST WER1LD IH1NTH HHYUW2MAH0NAA1VAH0KAH0ST WAH1N THIH1NG DHAE1T YUW1 MEY1 FAY1ND MAO1R AE1NDHHIY0 HHYUW2MAH0NAA1VAH0KAH0ST MEY1 FAY1ND IH1T MAO1R BAE1D WEH1N YUW1 IY1AH0M SEY1IH0NG DHIH1S BIH0KAO1Z YUW1 HHAE1V AE1SKT MIY1"
+    },
+    {
+      "start_s": 375.0,
+      "end_s": 405.0,
+      "original_text": "देखिए जब आपने पूछा है तो अभी मेरे मन में से निकल रहा है मैं कहना चाहता हूँ दुनिया एआई के लिए कुछ भी कर ले भारत के बिनाए एआई अधूरा है बहुत जिम्मेवार स्टेट्मेंट में कर दो देखिए एआई के समन में आपके अपने अनुभव क्या है मैं खुद अपने मेरा भाषन तो सुना पहली",
+      "language": "English",
+      "ipa": "dekʰie d͡ʒəb aːpne puːt͡ʃʰaː ɦæː to ab̤iː mere mən men se nikəl rəɦaː ɦæː mæːn kəɦnaː t͡ʃaːɦtaː ɦũː dunijaː eaːiː ke lie kut͡ʃʰ b̤iː kər le b̤aːrət ke binaːe eaːiː ad̤uːraː ɦæː bəɦut d͡ʒimmevaːr sʈeʈmenʈə men kər do dekʰie eaːiː ke səmən men aːpke apne anub̤əv kjaː ɦæː mæːn kʰud apne meraː b̤aːʂən to sunaː pəɦliː"
+    },
+    {
+      "start_s": 400.0,
+      "end_s": 430.0,
+      "original_text": "What is your experience? You heard my speechfast in Paris andthe same inresistible inresistible inresistible inresistible. Can anyone develop AI alone? Have you experienced it yourself? So you gave actually in your speech a brilliant example ofthe positive impact ofthe AI andthe limitations ofthe AI. I think thehumanisacrypto.com example you gave is",
+      "language": "English",
+      "ipa": "WAH1T IH1Z YAO1R IH0KSPIH1RIY0AH0NS YUW1 HHER1D MAY1 SPIY1CHFAE2ST IH0N PEH1RIH0S AE1NDHHIY0 SEY1M IH0NREH1SIH0STAH0BAH0L IH0NREH1SIH0STAH0BAH0L IH0NREH1SIH0STAH0BAH0L IH0NREH1SIH0STAH0BAH0L KAE1N EH1NIY0WAH2N DIH0VEH1LAH0P AY1 AH0LOW1N HHAE1V YUW1 IH0KSPIH1RIY0AH0NST IH1T YER0SEH1LF SOW1 YUW1 GEY1V AE1KCHAH0WAH0LIY0 IH0N YAO1R SPIY1CH AH0 BRIH1LYAH0NT IH0GZAE1MPAH0L AO1FTH PAA1ZAH0TIH0V IH1MPAE0KT AO1FTH AY1 AE1NDHHIY0 LIH2MIH0TEY1SHAH0NZ AO1FTH AY1 AY1 THIH1NGK THIY2HHAH0MYUW2NAH0STAA1FIY0AH0KAA1M IH0GZAE1MPAH0L YUW1 GEY1V IH1Z"
+    },
+    {
+      "start_s": 425.0,
+      "end_s": 455.0,
+      "original_text": "andthe limitations of AI. I think thehumanity ofism example you gave is when youask it toendtoend an image ofan person writingwith their left hand. It's always going toendtoend a person writingwith their right hand. So inthe way thehumanity ofism creating an AI system whereIndia is not part ofthe process is always going toendtoendtoend thehumanity ofism",
+      "language": "English",
+      "ipa": "AE1NDHHIY0 LIH2MIH0TEY1SHAH0NZ AH1V AY1 AY1 THIH1NGK THEH2HHYUW0MAE1NIH0TIY0 OW1FIH0ZAH0M IH0GZAE1MPAH0L YUW1 GEY1V IH1Z WEH1N YAW1SK IH1T TOW1TNAH0DAH0NT AE1N IH1MAH0JH OW1FAH0N PER1SAH0N RAY1TIH0NGWIH0TH DHEH1R LEH1FT HHAE1ND IH1TEH1S AO1LWEY2Z GOW1IH0NG TOW1TNAH0DAH0NT AH0 PER1SAH0N RAY1TIH0NGWIH0TH DHEH1R RAY1T HHAE1ND SOW1 IH1NTH WEY1 THEH2HHYUW0MAE1NIH0TIY0 OW1FIH0ZAH0M KRIY0EY1TIH0NG AE1N AY1 SIH1STAH0M WER0IY1NDIY0AH0 IH1Z NAA1T PAA1RT AO1FTH PRAA1SEH2S IH1Z AO1LWEY2Z GOW1IH0NG TOW2TNAH0DEH1NTAH0ND THEH2HHYUW0MAE1NIH0TIY0 OW1FIH0ZAH0M"
+    },
+    {
+      "start_s": 450.0,
+      "end_s": 480.0,
+      "original_text": "of that process is always going toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend toendtoend toend toend toend toend toend toend toend toend toend inthe 21st century.",
+      "language": "English",
+      "ipa": "AH1V DHAE1T PRAA1SEH2S IH1Z AO1LWEY2Z GOW1IH0NG TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1TNAH0DAH0NT TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1TNAH0DAH0NT TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1TNAH0DAH0NT TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1TNAH0DAH0NT TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1TNAH0DAH0NT TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1TNAH0DAH0NT TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1TNAH0DAH0NT TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1TNAH0DAH0NT TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND IH1NTH STRIY1T SEH1NCHER0IY0"
+    },
+    {
+      "start_s": 475.0,
+      "end_s": 505.0,
+      "original_text": "यहां सिर्फ इसका मॉडल नहीं बना रहा बल्कि स्पेसिफिक यूज केसिस के हिसाब से AI बेज एप्लीकेशन को भी डेवलप कर रहा है हमारे पास एक यूनिक मार्केट पेस बेज मॉडल अल्ली नहीं मौजूद है कि माइंड सेट शिप है परिंग इन इंडिया कि इस्ट्रोडिकल फैक्टर और शर्कारी कार्यशायलिया",
+      "language": "English",
+      "ipa": "jəɦaːn sirpʰə iskaː mɔɖəl nəɦiːn bənaː rəɦaː bəlki spesipʰik juːd͡ʒ kesis ke ɦisaːb se AY1 bed͡ʒ epliːkeʃən ko b̤iː ɖevləp kər rəɦaː ɦæː ɦəmaːre paːs ek juːnik maːrkeʈ pes bed͡ʒ mɔɖəl alliː nəɦiːn mɔːd͡ʒuːd ɦæː ki maːinɖə seʈ ʃip ɦæː pəriŋɡə in inɖijaː ki isʈroɖikəl pʰæːkʈər ɔːr ʃərkaːriː kaːrjəʃaːjlijaː"
+    },
+    {
+      "start_s": 500.0,
+      "end_s": 530.0,
+      "original_text": "historical factors, government work. Many of the top tech leaders, first of allpole, tech talent, but tech leaders in thehuman origin. Sundar Pchai, Satya Ngram, Arvind Sermonas, you've met with some ofthe. What spirit oftheirhuman origins do you think they carryin them that enables them toend so successful? The",
+      "language": "English",
+      "ipa": "HHIH0STAO1RIH0KAH0L FAE1KTER0Z GAH1VER0MAH0NT WER1K MEH1NIY0 AH1V DHAH0 TAA1P TEH1K LIY1DER0Z FER1ST AH1V AO1LPOW2L TEH1K TAE1LAH0NT BAH1T TEH1K LIY1DER0Z IH0N THIY1HHAH0MAH0N AO1RAH0JHAH0N SUW1NDAA0R CHAA1 SAA1TYAH0 GRAE1M AA1RVIH0ND SER1MAH0NAH0S YUW1VIY1 MEH1T WIH1DH SAH1M AO1FTH WAH1T SPIH1RAH0T AO2FTHER0IH1SHMAH0N AO1RAH0JHIH0NZ DUW1 YUW1 THIH1NGK DHEY1 KAE1RIY0IH0N DHEH1M DHAE1T EH0NEY1BAH0LZ DHEH1M TOW1ND SOW1 SAH0KSEH1SFAH0L DHAH0"
+    },
+    {
+      "start_s": 525.0,
+      "end_s": 555.0,
+      "original_text": "do you think they carry in them that enables them toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend toend to",
+      "language": "English",
+      "ipa": "DUW1 YUW1 THIH1NGK DHEY1 KAE1RIY0 IH0N DHEH1M DHAE1T EH0NEY1BAH0LZ DHEH1M TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TUW1"
+    },
+    {
+      "start_s": 550.0,
+      "end_s": 580.0,
+      "original_text": "andthe best you can give, you should give. Andthe reason forthe culture is that every Indian tries toend his best wherever he is. So you spoke about this humanvocaligence. Do you worry that AI, artificial intelligence will replace us humans? It is so that in every era, for some timeenergy andthe humanbeings",
+      "language": "English",
+      "ipa": "AE1NDHHIY0 BEH1ST YUW1 KAE1N GIH1V YUW1 SHUH1D GIH1V AE1NDHHIY0 RIY1ZAH0N FAO1RDH KAH1LCHER0 IH1Z DHAE1T EH1VER0IY0 IH1NDIY0AH0N TRAY1Z TOW1ND HHIH1Z BEH1ST WEH0REH1VER0 HHIY1 IH1Z SOW1 YUW1 SPOW1K AH0BAW1T DHIH1S HHYUW2MAH0NOW0GLAE1SAH0VAH0NT DUW1 YUW1 WER1IY0 DHAE1T AY1 AA2RTAH0FIH1SHAH0L IH0NTEH1LAH0JHAH0NS WIH1L RIY2PLEY1S AH1S HHYUW1MAH0NZ IH1T IH1Z SOW1 DHAE1T IH0N EH1VER0IY0 EH1RAH0 FAO1R SAH1M TIH1MIH0NER0JHIY0 AE1NDHHIY0 HHYUW1MAH0NBAY2ZIH0N"
+    },
+    {
+      "start_s": 575.0,
+      "end_s": 599.57,
+      "original_text": "It does make me and a lot of people wonder what it makes humans special because it seems that there's a lot that makes humans special. Thehuman special. Thehuman special. Thehuman special. Thehuman special. Thehuman special.",
+      "language": "English",
+      "ipa": "IH1T DAH1Z MEY1K MIY1 AH0ND AH0 LAA1T AH1V PIY1PAH0L WAH1NDER0 WAH1T IH1T MEY1KS HHYUW1MAH0NZ SPEH1SHAH0L BIH0KAO1Z IH1T SIY1MZ DHAE1T DHEH1REH1S AH0 LAA1T DHAE1T MEY1KS HHYUW1MAH0NZ SPEH1SHAH0L THIY1HHAH0MAH0N SPEH1SHAH0L THIY1HHAH0MAH0N SPEH1SHAH0L THIY1HHAH0MAH0N SPEH1SHAH0L THIY1HHAH0MAH0N SPEH1SHAH0L THIY1HHAH0MAH0N SPEH1SHAH0L"
+    }
+  ],
+  "full_ipa": "HHIY1R AE1Z AH0 PER1SAH0N HHUW1 LAH1VZ MAE2THAH0MAE1TIH0KS AY1 HHAE1V TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND dekʰ rəɦaː ɦuːn mæːn unke bəɦut aːd̤ər kərtaː ɦuːn ɔːr mere deʃ ke ɦər koiː unko aːd̤ər kərte ɦæːn kjoŋki saːinsə ɔːr spirit͡ʃaːliʈiː ke biːt͡ʃ bəɦut bəɽaː kəreʈ ɦæː æːsaː meraː bət ɦæː bəɦut se saːinʈipʰik eɖvaːnsə maːinɖsə aɡər tʰoɽaː saː b̤iː dekʰen to vo spirit͡ʃliː eɖvaːnsə b̤iː ɦote ɦæːn sriː nivaːs rəmaːnu raːmaːnud͡ʒəj ɦote ɦæːn। use kəʈəpʰ b̤iː ɦote ɦæːn। sriː nivaːs raːmaːnud͡ʒəj ɦəm kəɦte tʰe ki unɦen mæːtʰimeʈikəl aːiɖijaːd͡ʒ utdeviː se aːte ɦæːn d͡ʒiskiː vo puːd͡ʒaː kərte ɦæːn। jəɦãː aːiɖijaːd͡ʒ təpsjaː se aːte ɦæːn। ɔːr təpsjaː sirpʰə ɦaːɖvərɡə nəɦiːn ɦæː ek tərəɦ se kisiː ek kaːm ke lie kʰud ko ɖivoʈ kər denaː kʰud ko kʰəpaː denaː æːsiː ek kaːm ke lie kʰud ko ɖivoʈ kər denaː kʰud ko kʰəpaː denaː svəjən ɦiː d͡ʒæːse vəɦ kaːrjə kaː ruːp bən d͡ʒaːe ɦæː ɔːr ɦəm nɔled͡ʒ ke d͡ʒitne d͡ʒjaːdaː sorses ke lie apne opən ɦoŋɡe ɦəmaːre paːs utne ɦiː d͡ʒjaːdaː aːiɖijaː d͡ʒaːeŋɡe inpʰɔrmeʃən ɔːr nɔled͡ʒ ke biːt͡ʃ men pʰərkə kərne se b̤iː səməj t͡ʃaːɦie ki kut͡ʃʰ loɡ inpʰɔrmeʃən ko nɔled͡ʒ maːŋɡte ɦæːn ɔːr inpʰɔrmeʃən ko nɔled͡ʒ maːŋɡte ɦæːn SAH1M PIY1PAH0L AE1SK FAO1R NAA1LAH0JH AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AE1NDIH0SLF AH0 DIH0SAY1SIH0V LIY1DER0 YUW1 HHAE1V AH0 REH2PYAH0TEY1SHAH0N FAO1R BIY1IH0NG AH0 DIH0SAY1SIH0V LIY1DER0 SOW1 KAE1N YUW1 WAO1K MIY1 THRUW1 AA1N DHIH1S TAA1PIH0K AH1V AY0DIY1AH0Z HHAW1 YUW1 MEY1K DIH0SIH1ZHAH0NZ WAH1TEH1S YAO1R PRAA1SEH2S SOW1 FAO1R IH1NSTAH0NS WEH1N FEY1SIH0NG AH0 HHAY1 STEY1KS CHOY1S WIH1DH NOW1 KLIH1R PREH1SAH0DAH0NS YUW1 NOW1 AH0 LAA1T AH1V AH0NSER1TAH0NTIY0 HHAE1VIH0NG TUW1 BAE1LAH0NS IH1NPUH2T HHAW1 DUW1 YUW1 MEY1K DIH0SIH1ZHAH0NZ LAA1TS AH0WAH1P DHEH1R IH1Z KAH0MIH1SHAH0N bəɦut se baːten ɦæːn iske piːt͡ʃʰe ek ʃaːjəd industaːn men mæːn ek æːsaː poliʈiʃən ɦuːn d͡ʒo mere deʃ ke  ɖisʈrik men raːtre mukaːm kər t͡ʃukaː ɦuːn mere puːrvə d͡ʒiːvən kiː vivaːd kərtaː ɦuːn vib̤rəmaːn kərtaː tʰaː usse d͡ʒo mæːnne d͡ʒiːvən ke baːd kərtaː ɦuːn mæːn b̤rəmaːn kərtaː tʰaː। usse d͡ʒo mæːnne paːjaː ɦæː vo d͡ʒo sikʰaː ɦæː to mere paːs vo ek bəɦut bəɽaː t͡ʃiːd͡ʒon ko ɡraːsruːʈ levəl pər tritijon ke viʂəj men meriː pʰərsʈeɖ inpʰɔrmeʃən ɦæː। kisiː se puːt͡ʃʰaː ɦuaː d͡ʒaːnaː ɦuaː æːsaː kitaːbon ke dvaːraː nəɦiːn paːjaː ɦæː duːsraː kəmrnensə kiː dr̩ʂʈi se dekʰen to mud͡ʒ̤e pərivər paːs koiː ki kəmrnensə kiː duruʂʈriː se dekʰen to mere pərivrpaːs koiː prəkaːr kaː bæːɡed͡ʒ nəɦiːn ɦæː ki d͡ʒis bæːɡed͡ʒ ko lekər ki mud͡ʒ̤e təb rəɦnaː ɦæː uske aːd̤aːr rəɦaː pər meraː t͡ʃəlnaː ɦæː vəɦ nəɦiːn ɦæː tiːsraː ki nirɳəj kərne men meraː ek tərəɦ d͡ʒo ɦæː meraː deʃ səbse pəɦle mæːn d͡ʒo kər rəɦaː ɦuːn mere deʃ kaː nukʂaː nukʂaː to nəɦiːn ɦo rəɦaː ɦæː mæːn d͡ʒo kər rəɦaː ɦũː mere deʃ kaː nukʂaː to nəɦiːn ɦo rəɦaː ɦæː। duːsraː ɦəmaːre jəɦãː məɦaːtmaː ɡaːnd̤iː kəɦte tʰe ki tumɦen koiː nirɳəj kərte səməj koiː ult͡ʃən ɦo to tum kisiː ɡəriːɡ pər t͡ʃeɦraː dekʰ lo unko jaːd kəro ɔːr sot͡ʃo je uske kaːm aːeɡaː kjaː to aːpkaː nirɳəj səɦiː ɦoɡaː। mud͡ʒ̤e vəɦ məntrə bəɦut kaːm aːtaː ɦæː ki aːp saːmaːnjə maːnviː ko jaːd kəro ki apne mæːn d͡ʒo kər rəɦaː ɦuːn duːsre prəkrijaːn se səməj tək ɦæː ki mæːn mæːn d͡ʒo kər rəɦaː ɦuːn tusre prəkrijaːn se d͡ʒəɦaːn tək ɦæː ki mæːn bəɦut ɦiː bəɦər kənekʈeɖ ɦuːn meriː sərkaːr men mere avsəron ko is prəti irʃaː b̤iː ɦotiː ɦoɡiː ɔːr unko təkliːpʰ b̤iː ɦotiː ɦoɡiː ɔːr vəɦ ɦæː mere impʰrmeʃən d͡ʒənrəl bəɦut ɦæː ɔːr bəɦut laːiv ɦæː ɔːr islie mud͡ʒ̤e d͡ʒiːd͡ʒon kiː d͡ʒaːnkaːrijaːn bəɦut saːriː ɦæːn ɔːr islie mud͡ʒ̤e d͡ʒiːd͡ʒon kiː d͡ʒaːnkaːrijaːn bəɦut saːriː mil d͡ʒaːtiː ɦæː ɔːr dekʰaː se to mud͡ʒ̤e koiː aːkər ke briːp kəren ki mæːn kʰud kʰəɽaː rəɦtaː ɦuːn ɔːr d͡ʒəb aːp onrsip lete ɦæːn to aːpke saːtʰiː b̤iː aːpke prətiʃ səmrpit b̤aːv se d͡ʒuɽ d͡ʒaːte unko ləɡtaː ɦæː jəɦ aːdmiː ɦəmen nəɦiːn ɖuːbo deɡaː ɦəmen mərvaː nəɦiːn deɡaː jəɦ kʰud kʰəɽaː rəɦeɡaː ɦəmaːre saːtʰ kjoŋki ɦəmen mərvaː nəɦiːn deɡaː jəɦ kʰud kʰəɽaː rəɦeɡaː ɦəmaːre saːtʰ kjoŋki imaːndaːriː se nirɳəj kər rəɦaː ɦũː mere lie kut͡ʃʰ nəɦiːn kər rəɦaː ɦũː deʃvaːson ke lie ɡəltiː ɦo səktiː ɦæː mæːnne deʃvaːson ko pəɦle kəɦaː rəɦaː ɦũː mæːn insaːm ɦũː mere se ɡəltiː ɦo səktiː ɦæː bəd iraːde se kaːm nəɦiːn kərũː HHIY1 DOW1ZAH0NTIY1 WAA1NT TOW1ND EH1NIY0THIH2NG GUH1D SOW1 SAH0SAY1AH0TIY0 SIY1Z MIY1 AE1Z IY1AH0M AE1NDIH0SLF EH1NJHAH0NIH1RZ IH0N THIY1HHAH0MAH0N WER1LD SOW1 HHAW1 KAE1N IH1NDIY0AH0 BIH0KAH1M THIY1HHAH0MAH0N LIY1DER0 IH1NTH SPEY1S AO1FTH HHYUW2MAH0NAA1VAH0KAH0ST KER1AH0NTLIY0 LAE1GZ BIH0HHIH1NDTH HHYUW2MAH0NAA1VAH0KAH0ST IH1NTH YUW0NAY1TAH0D STEY1TS WAH1T DAH1Z IH1T TEY1K FAO2RHHYUW0MAA1VAH0NCHAH0ST IH1NDIY0AH0 TOW1ND TOW1ND STAA1RT WIH1NIH0NG AE1NDHHIY0 HHYUW2MAH0NAA1VAH0KAH0ST LIY1DIH0NG THIY1HHAH0MAH0N VOW1KAH0LIH0ST WER1LD IH1NTH HHYUW2MAH0NAA1VAH0KAH0ST WAH1N THIH1NG DHAE1T YUW1 MEY1 FAY1ND MAO1R AE1NDHHIY0 HHYUW2MAH0NAA1VAH0KAH0ST MEY1 FAY1ND IH1T MAO1R BAE1D WEH1N YUW1 IY1AH0M SEY1IH0NG DHIH1S BIH0KAO1Z YUW1 HHAE1V AE1SKT MIY1 dekʰie d͡ʒəb aːpne puːt͡ʃʰaː ɦæː to ab̤iː mere mən men se nikəl rəɦaː ɦæː mæːn kəɦnaː t͡ʃaːɦtaː ɦũː dunijaː eaːiː ke lie kut͡ʃʰ b̤iː kər le b̤aːrət ke binaːe eaːiː ad̤uːraː ɦæː bəɦut d͡ʒimmevaːr sʈeʈmenʈə men kər do dekʰie eaːiː ke səmən men aːpke apne anub̤əv kjaː ɦæː mæːn kʰud apne meraː b̤aːʂən to sunaː pəɦliː WAH1T IH1Z YAO1R IH0KSPIH1RIY0AH0NS YUW1 HHER1D MAY1 SPIY1CHFAE2ST IH0N PEH1RIH0S AE1NDHHIY0 SEY1M IH0NREH1SIH0STAH0BAH0L IH0NREH1SIH0STAH0BAH0L IH0NREH1SIH0STAH0BAH0L IH0NREH1SIH0STAH0BAH0L KAE1N EH1NIY0WAH2N DIH0VEH1LAH0P AY1 AH0LOW1N HHAE1V YUW1 IH0KSPIH1RIY0AH0NST IH1T YER0SEH1LF SOW1 YUW1 GEY1V AE1KCHAH0WAH0LIY0 IH0N YAO1R SPIY1CH AH0 BRIH1LYAH0NT IH0GZAE1MPAH0L AO1FTH PAA1ZAH0TIH0V IH1MPAE0KT AO1FTH AY1 AE1NDHHIY0 LIH2MIH0TEY1SHAH0NZ AO1FTH AY1 AY1 THIH1NGK THIY2HHAH0MYUW2NAH0STAA1FIY0AH0KAA1M IH0GZAE1MPAH0L YUW1 GEY1V IH1Z AE1NDHHIY0 LIH2MIH0TEY1SHAH0NZ AH1V AY1 AY1 THIH1NGK THEH2HHYUW0MAE1NIH0TIY0 OW1FIH0ZAH0M IH0GZAE1MPAH0L YUW1 GEY1V IH1Z WEH1N YAW1SK IH1T TOW1TNAH0DAH0NT AE1N IH1MAH0JH OW1FAH0N PER1SAH0N RAY1TIH0NGWIH0TH DHEH1R LEH1FT HHAE1ND IH1TEH1S AO1LWEY2Z GOW1IH0NG TOW1TNAH0DAH0NT AH0 PER1SAH0N RAY1TIH0NGWIH0TH DHEH1R RAY1T HHAE1ND SOW1 IH1NTH WEY1 THEH2HHYUW0MAE1NIH0TIY0 OW1FIH0ZAH0M KRIY0EY1TIH0NG AE1N AY1 SIH1STAH0M WER0IY1NDIY0AH0 IH1Z NAA1T PAA1RT AO1FTH PRAA1SEH2S IH1Z AO1LWEY2Z GOW1IH0NG TOW2TNAH0DEH1NTAH0ND THEH2HHYUW0MAE1NIH0TIY0 OW1FIH0ZAH0M AH1V DHAE1T PRAA1SEH2S IH1Z AO1LWEY2Z GOW1IH0NG TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1TNAH0DAH0NT TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1TNAH0DAH0NT TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1TNAH0DAH0NT TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1TNAH0DAH0NT TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1TNAH0DAH0NT TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1TNAH0DAH0NT TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1TNAH0DAH0NT TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1TNAH0DAH0NT TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND IH1NTH STRIY1T SEH1NCHER0IY0 jəɦaːn sirpʰə iskaː mɔɖəl nəɦiːn bənaː rəɦaː bəlki spesipʰik juːd͡ʒ kesis ke ɦisaːb se AY1 bed͡ʒ epliːkeʃən ko b̤iː ɖevləp kər rəɦaː ɦæː ɦəmaːre paːs ek juːnik maːrkeʈ pes bed͡ʒ mɔɖəl alliː nəɦiːn mɔːd͡ʒuːd ɦæː ki maːinɖə seʈ ʃip ɦæː pəriŋɡə in inɖijaː ki isʈroɖikəl pʰæːkʈər ɔːr ʃərkaːriː kaːrjəʃaːjlijaː HHIH0STAO1RIH0KAH0L FAE1KTER0Z GAH1VER0MAH0NT WER1K MEH1NIY0 AH1V DHAH0 TAA1P TEH1K LIY1DER0Z FER1ST AH1V AO1LPOW2L TEH1K TAE1LAH0NT BAH1T TEH1K LIY1DER0Z IH0N THIY1HHAH0MAH0N AO1RAH0JHAH0N SUW1NDAA0R CHAA1 SAA1TYAH0 GRAE1M AA1RVIH0ND SER1MAH0NAH0S YUW1VIY1 MEH1T WIH1DH SAH1M AO1FTH WAH1T SPIH1RAH0T AO2FTHER0IH1SHMAH0N AO1RAH0JHIH0NZ DUW1 YUW1 THIH1NGK DHEY1 KAE1RIY0IH0N DHEH1M DHAE1T EH0NEY1BAH0LZ DHEH1M TOW1ND SOW1 SAH0KSEH1SFAH0L DHAH0 DUW1 YUW1 THIH1NGK DHEY1 KAE1RIY0 IH0N DHEH1M DHAE1T EH0NEY1BAH0LZ DHEH1M TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TOW1ND TUW1 AE1NDHHIY0 BEH1ST YUW1 KAE1N GIH1V YUW1 SHUH1D GIH1V AE1NDHHIY0 RIY1ZAH0N FAO1RDH KAH1LCHER0 IH1Z DHAE1T EH1VER0IY0 IH1NDIY0AH0N TRAY1Z TOW1ND HHIH1Z BEH1ST WEH0REH1VER0 HHIY1 IH1Z SOW1 YUW1 SPOW1K AH0BAW1T DHIH1S HHYUW2MAH0NOW0GLAE1SAH0VAH0NT DUW1 YUW1 WER1IY0 DHAE1T AY1 AA2RTAH0FIH1SHAH0L IH0NTEH1LAH0JHAH0NS WIH1L RIY2PLEY1S AH1S HHYUW1MAH0NZ IH1T IH1Z SOW1 DHAE1T IH0N EH1VER0IY0 EH1RAH0 FAO1R SAH1M TIH1MIH0NER0JHIY0 AE1NDHHIY0 HHYUW1MAH0NBAY2ZIH0N IH1T DAH1Z MEY1K MIY1 AH0ND AH0 LAA1T AH1V PIY1PAH0L WAH1NDER0 WAH1T IH1T MEY1KS HHYUW1MAH0NZ SPEH1SHAH0L BIH0KAO1Z IH1T SIY1MZ DHAE1T DHEH1REH1S AH0 LAA1T DHAE1T MEY1KS HHYUW1MAH0NZ SPEH1SHAH0L THIY1HHAH0MAH0N SPEH1SHAH0L THIY1HHAH0MAH0N SPEH1SHAH0L THIY1HHAH0MAH0N SPEH1SHAH0L THIY1HHAH0MAH0N SPEH1SHAH0L THIY1HHAH0MAH0N SPEH1SHAH0L"
+}
